@@ -24,6 +24,7 @@ linear-gradient(180deg,var(--blue2),var(--blue1),var(--dark));
 background-size:200% 200%;
 animation:bgMove 15s ease infinite;
 scroll-behavior:smooth;
+
 }
 
 @keyframes bgMove{
